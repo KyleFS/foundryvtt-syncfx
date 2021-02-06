@@ -1,0 +1,14 @@
+{
+  "name": "syncfx",
+  "title": "SyncFX",
+  "description": "",
+  "authors": [{"name":"kyle Spiller","email":"me@kylespiller.com" }],
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion":"0.7.9",
+  "esmodules": [
+    "scripts/syncfx.js"
+  ],
+  "url":"https://github.com/KyleFS/foundryvtt-syncfx",
+  "manifest":"https://raw.githubusercontent.com/KyleFS/foundryvtt-syncfx/master/module.json"
+}
