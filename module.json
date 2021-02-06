@@ -10,5 +10,6 @@
     "scripts/syncfx.js"
   ],
   "url":"https://github.com/KyleFS/foundryvtt-syncfx",
-  "manifest":"https://raw.githubusercontent.com/KyleFS/foundryvtt-syncfx/master/module.json"
+  "manifest":"https://raw.githubusercontent.com/KyleFS/foundryvtt-syncfx/master/module.json",
+  "download":"https://github.com/KyleFS/foundryvtt-syncfx/archive/0.0.1.zip"
 }
